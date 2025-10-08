@@ -1,2 +1,2 @@
 # qr-code-component
-A responsive QR code component built with HTML &amp; CSS
+一个使用HTML和CSS制作的二维码卡片组件
